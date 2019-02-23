@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5947fb-ccf1-4691-acde-ce48aba23e85" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/study/ListTest.java" afterPath="$PROJECT_DIR$/src/com/study/ListTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,7 +109,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="1400" />
@@ -151,13 +151,6 @@
               <item name="process" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="process" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithom" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -450,7 +443,7 @@
       <workItem from="1547470914085" duration="5000" />
       <workItem from="1548204777052" duration="11000" />
       <workItem from="1548839906465" duration="9000" />
-      <workItem from="1550904545511" duration="290000" />
+      <workItem from="1550904545511" duration="1160000" />
     </task>
     <task id="LOCAL-00001" summary="练习&#10;这是平时写的一些算法小Demo，用作练习和以后复习用到；&#10;process中有排序的小算法和一些逻辑小算法以及学过的知识分类写的代码，分为algorithom和study两个包">
       <created>1542163549084</created>
@@ -477,10 +470,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241103000" />
+    <option name="totallyTimeSpent" value="241973000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
