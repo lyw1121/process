@@ -1,18 +1,20 @@
 package com.study;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Map;
+import java.util.*;
 
 public class MapTest {
     public static void main(String[]args){
 
         //map集合的foreach遍历
         Map<Integer,String> map = new HashMap<Integer, String>();
+        TreeMap<String,String> treeMap = new TreeMap<>();
         map.put(1,"一");
-        map.put(2,"二");
-        map.put(3,"三");
+        map.put(4,"二");
+        map.put(5,"三");
+        map.put(9,"四");
+        map.put(10,"五");
+        map.put(3,"六");
+        //map.put(null,"dddddd");
         for (Integer key : map.keySet()){
             System.out.println("输出键："+key);
         }

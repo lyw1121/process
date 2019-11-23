@@ -1,5 +1,8 @@
 package com.study;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class neiBuLei {
   /**  class information{
         private int age;
@@ -41,7 +44,7 @@ public class neiBuLei {
     public static void main(String[] args) {
                                                        //先new 外部类再new 内部类
         inner inn = new neiBuLei().new inner();        //若内部类inner 为static修饰 则 可写为：
-        inn.des();                                      //  new neiBuLei().new inner().des();即可
+        inn.des();//  new neiBuLei().new inner().des();即可
         neiBuLei nei = new neiBuLei();
         nei.test();
         System.out.println("内部类的方法实现:外部类与内部类的访问过程 即；");

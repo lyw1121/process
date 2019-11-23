@@ -1,7 +1,9 @@
 package com.study;
 
 import java.lang.reflect.Constructor;
-
+/*
+*  反射的基本小demo
+* */
 public class FlectTest {
     public static void main(String[]args) throws Exception{
         Class clazz = null;
